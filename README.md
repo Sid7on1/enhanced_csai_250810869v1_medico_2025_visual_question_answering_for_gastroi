@@ -1,0 +1,2 @@
+# enhanced_csai_250810869v1_medico_2025_visual_question_answering_for_gastroi
+AI-Generated Project: enhanced_cs.AI_2508.10869v1_Medico_2025_Visual_Question_Answering_for_Gastroi - Created by WATCHDOG Multi-Agent System
