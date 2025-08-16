@@ -1,0 +1,36 @@
+# requirements.txt
+
+# Core scientific computing stack
+numpy==1.23.3
+scipy==1.11.0
+pandas==1.5.2
+
+# Core ML stack
+torch==1.14.0
+torchvision==0.11.1
+
+# Data processing and visualization
+pillow==9.4.0
+matplotlib==3.6.0
+seaborn==0.11.2
+
+# Natural language processing
+nltk==3.7
+spacy==3.4.4
+transformers==4.19.0
+
+# Medical imaging and endoscopy analysis
+medicoapi==0.5.1  # Medico API for GI endoscopy data and models
+kvasir-vqa==1.0.0  # Kvasir VQA dataset and tools
+
+# General utilities
+tqdm==4.65.0
+requests==2.27.1
+beautifulsoup4==4.6.0
+lxml==4.8.0
+
+# Testing and development
+pytest==7.1.2
+mock==4.0.3
+flake8==4.0.1
+black==22.3.0
